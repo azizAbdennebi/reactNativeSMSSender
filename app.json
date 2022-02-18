@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "FirstRealTry",
+    "slug": "FirstRealTry",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.imaxeam43.FirstRealTry"
+    }
+  },
+  "name": "FirstRealTry"
+}
